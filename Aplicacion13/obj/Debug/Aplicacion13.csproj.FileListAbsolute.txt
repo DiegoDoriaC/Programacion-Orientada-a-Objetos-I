@@ -1,0 +1,10 @@
+C:\Users\Diego D\Desktop\Tercer Ciclo\C#\Cibertec\Aplicacion13\bin\Debug\Aplicacion13.exe.config
+C:\Users\Diego D\Desktop\Tercer Ciclo\C#\Cibertec\Aplicacion13\bin\Debug\Aplicacion13.exe
+C:\Users\Diego D\Desktop\Tercer Ciclo\C#\Cibertec\Aplicacion13\bin\Debug\Aplicacion13.pdb
+C:\Users\Diego D\Desktop\Tercer Ciclo\C#\Cibertec\Aplicacion13\obj\Debug\Aplicacion13.csproj.AssemblyReference.cache
+C:\Users\Diego D\Desktop\Tercer Ciclo\C#\Cibertec\Aplicacion13\obj\Debug\Aplicacion13.Form1.resources
+C:\Users\Diego D\Desktop\Tercer Ciclo\C#\Cibertec\Aplicacion13\obj\Debug\Aplicacion13.Properties.Resources.resources
+C:\Users\Diego D\Desktop\Tercer Ciclo\C#\Cibertec\Aplicacion13\obj\Debug\Aplicacion13.csproj.GenerateResource.cache
+C:\Users\Diego D\Desktop\Tercer Ciclo\C#\Cibertec\Aplicacion13\obj\Debug\Aplicacion13.csproj.CoreCompileInputs.cache
+C:\Users\Diego D\Desktop\Tercer Ciclo\C#\Cibertec\Aplicacion13\obj\Debug\Aplicacion13.exe
+C:\Users\Diego D\Desktop\Tercer Ciclo\C#\Cibertec\Aplicacion13\obj\Debug\Aplicacion13.pdb
